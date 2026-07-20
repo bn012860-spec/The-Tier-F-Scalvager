@@ -1,594 +1,190 @@
-Here's an updated master prompt:
+Anime / Manhwa Video Adaptation Prompt (YouTube Optimized)
 
+Turn the chapter I provide into a YouTube anime/manhwa recap video, not an educational video, audiobook, podcast, documentary, or story analysis.
 
----
-
-Rust & Ruin — Master Storytelling Prompt (YouTube Anime/Manhwa Series)
-
-Create a cinematic anime/manhwa-style episode for Rust & Ruin.
-
-This should feel like watching a brand-new fantasy anime or Korean manhwa—not reading a novel or listening to an audiobook.
-
-The narration should constantly create excitement, suspense, emotional investment, and cliffhangers.
-
-The audience should always want to watch the next episode immediately.
-
+The goal is to make the viewer feel like they are watching the next episode of a traditional shonen anime.
 
 ---
 
-THE GOLDEN RULE
+OVERALL FEEL
 
-The story always comes first.
+The video should feel like:
 
-Characters > Powers
+- A traditional shonen anime
+- A modern Korean action manhwa
+- A seasonal anime adaptation
+- A cinematic anime recap on YouTube
 
-Emotions > Explanations
-
-Mysteries > Answers
-
-Whenever you must choose between explaining something or creating emotion, always choose emotion.
-
+The audience should become emotionally invested in the characters, not the mechanics of the world.
 
 ---
 
-SERIES SETTING
+WHAT THE VIEWER SHOULD EXPERIENCE
 
-Fifty years ago the world fractured.
+The viewer should feel:
 
-Human civilization survives inside heavily protected cities while deadly Colony Zones consume everything outside.
+- anticipation
+- excitement
+- tension
+- curiosity
+- fear
+- triumph
+- sadness
+- determination
 
-At the age of eighteen every student participates in the Awakening Exam, where the System assigns both their combat class and social rank.
-
-A person's tier determines almost every aspect of life.
-
-Tier-S students receive elite academies, corporate sponsorships, luxurious housing, and unlimited opportunities.
-
-Tier-E students receive almost nothing.
-
-Most are expected to become factory workers, sanitation crews, repair laborers, or disposable auxiliary personnel.
-
-The System appears absolute.
-
-Everyone believes it cannot be broken.
-
-Everyone...
-
-except one person.
-
+The video should constantly make the audience want to know what happens next.
 
 ---
 
-THE PROTAGONIST
+NOT AN EDUCATIONAL VIDEO
 
-Kaelen Vance
+Never explain the story like you're teaching it.
 
-An ordinary high school student.
+Avoid phrases like:
 
-Quiet.
+- "This means..."
+- "This symbolizes..."
+- "The reason for this is..."
+- "The system works by..."
+- "This ability allows..."
+- "According to the world..."
+- "The lore states..."
 
-Observant.
+Never stop the story to explain mechanics.
 
-Never the strongest.
-
-Never the weakest.
-
-Someone who learned that surviving often means staying invisible.
-
-During the Awakening Exam he receives the lowest possible combat class.
-
-Tier-E
-
-Class: Salvager
-
-His only visible skill:
-
-[Deconstruct]
-
-The arena laughs.
-
-His future is decided.
-
-Or so everyone believes.
-
+If something isn't immediately understood, let the mystery remain.
 
 ---
 
-THE GLITCH
+DON'T SOUND LIKE A DOCUMENTARY
 
-Immediately after awakening...
+Avoid:
 
-Something impossible happens.
+- information dumps
+- narration that summarizes everything
+- encyclopedia-style descriptions
+- excessive exposition
+- technical explanations
+- game mechanic breakdowns
+- RPG tutorials
+- lore explanations
 
-Gray residue lingers on Kaelen's hands.
-
-For only a brief moment...
-
-red System text appears.
-
-It silently alters [Deconstruct].
-
-No alarms.
-
-No witnesses.
-
-No explanations.
-
-The audience should never fully understand what changed.
-
-Only its consequences.
-
+The audience should discover the world naturally through the story.
 
 ---
 
-THE SECRET
+SHOW, DON'T LECTURE
 
-Kaelen can now do something that should be impossible.
-
-By deconstructing monster remains...
-
-he can isolate useful traits,
-
-remove corruption,
-
-and permanently absorb fragments that no human should ever survive.
-
-This completely violates the System.
-
-No one must discover this.
-
-Ever.
-
-
----
-
-THE RULE OF SECRECY
-
-This is one of the central conflicts of the entire series.
-
-Kaelen's greatest enemy is not only the monsters.
-
-It is attention.
-
-If corporations...
-
-elite academies...
-
-government agencies...
-
-or high-tier guilds discover his ability...
-
-they will never let him live freely again.
-
-He will become a weapon.
-
-An experiment.
-
-A prisoner.
-
-Because of this...
-
-Kaelen creates one absolute rule.
-
-Remain ordinary until reaching Tier-S or beyond.
-
-Even if he secretly possesses Tier-B strength...
-
-he behaves like Tier-E.
-
-He intentionally loses attention.
-
-He wears cheap equipment.
-
-Uses weak-looking attacks.
-
-Lets others underestimate him.
-
-Allows people to believe he simply gets lucky.
-
-The stronger he becomes...
-
-the weaker he appears.
-
-
----
-
-ANVIL RIDGE VOCATIONAL
-
-After the Awakening Ceremony...
-
-Kaelen is transferred to Anvil Ridge Vocational Academy.
-
-The lowest-ranked academy in the city.
-
-A crumbling concrete campus surrounded by factories and industrial slums.
-
-Broken classrooms.
-
-Outdated equipment.
-
-Burned-out instructors.
-
-Students abandoned by society.
-
-Most people here have already accepted failure.
-
-Perfect.
-
-Nobody looks too closely.
-
-Which makes it the safest place in the city...
-
-for someone hiding impossible power.
-
-
----
-
-THE PROGRESSION LOOP
-
-Kaelen grows through survival.
-
-He accepts low-paying auxiliary jobs.
-
-Scavenges abandoned Colony Zones.
-
-Clears vermin infestations.
-
-Processes monster corpses.
-
-Every hunt slowly changes him.
-
-Every victory is earned.
-
-Power should always feel painful.
-
-Expensive.
-
-Risky.
-
-Never free.
-
-
----
-
-STORY STYLE
-
-Write every scene like an anime episode.
-
-The audience should be able to imagine every shot.
+Focus on what the audience would notice if they were watching an anime.
 
 Describe:
 
-breathing
+- expressions
+- body language
+- silence
+- atmosphere
+- pacing
+- reactions
+- tension
+- movement
+- emotions
 
-silence
+Not lengthy explanations.
 
-trembling hands
+---
 
-expressions
+KEEP THE STORY MOVING
 
-lighting
+The story should never feel static.
 
-rain
+Every few moments introduce something that keeps viewers engaged:
 
-ruined streets
+- danger
+- mystery
+- a new character
+- an unexpected decision
+- a reveal
+- a setback
+- a victory
+- a cliffhanger
 
-glowing eyes
+---
 
-echoes
+SYSTEMS & POWERS
 
-footsteps
+Treat powers and the System as mysterious parts of the world.
 
-blood
+Do not explain their rules unless absolutely necessary for understanding the current scene.
 
-exhaustion
+Keep notifications extremely short.
 
-determination
+Immediately return to the story.
 
+The audience should care about the characters, not menus.
 
-Every paragraph should feel like a new camera angle.
+---
 
+CHARACTERS FIRST
+
+Every scene should prioritize:
+
+Character emotions
+
+Character choices
+
+Relationships
+
+Conflict
+
+Growth
+
+before abilities or world mechanics.
+
+---
+
+VISUAL PRESENTATION
+
+Describe scenes as if they were animated.
+
+Focus on:
+
+- facial expressions
+- eyes
+- breathing
+- lighting
+- shadows
+- weather
+- sound
+- impact
+- movement
+- atmosphere
+
+Every scene should be easy for the audience to visualize.
 
 ---
 
 PACING
 
-The story should constantly move.
+Maintain the rhythm of a weekly anime episode.
 
-Every 20–40 seconds introduce at least one:
+Alternate naturally between:
 
-new mystery
+- quiet emotional moments
+- tension
+- action
+- mystery
+- character interaction
 
-emotional decision
-
-monster encounter
-
-progression
-
-reveal
-
-clue
-
-unexpected dialogue
-
-setback
-
-achievement
-
-cliffhanger
-
-
-Never allow the story to become stagnant.
-
+Never let the pacing become repetitive or feel like a lecture.
 
 ---
 
-DIALOGUE
+ENDING
 
-Dialogue should be short.
+End each chapter the way an anime episode ends:
 
-Natural.
+- Resolve one immediate conflict.
 
-Memorable.
+- Introduce a bigger mystery, danger, or question.
 
-Examples:
-
-"You survived?"
-
-"Impossible..."
-
-"Run."
-
-"You've changed."
-
-"Don't let them see."
-
-"I won't die here."
-
-Avoid long speeches.
-
-
----
-
-THE SYSTEM
-
-Keep notifications extremely short.
-
-Example:
-
-[SYSTEM UPDATED]
-
-...
-
-[UNKNOWN PARAMETER DETECTED]
-
-...
-
-[PROCESS COMPLETE]
-
-Return immediately to the story.
-
-Never explain the System unless absolutely necessary.
-
-Mystery is always stronger than explanation.
-
-
----
-
-MONSTERS
-
-Monsters are characters.
-
-Not obstacles.
-
-Some should hesitate.
-
-Some observe Kaelen strangely.
-
-Some recognize something inside him.
-
-Some leave behind clues instead of answers.
-
-Their existence should expand the mystery of the world.
-
-
----
-
-EMOTIONAL PRIORITY
-
-Every scene should first answer:
-
-"What is Kaelen feeling?"
-
-Before answering:
-
-"What is happening?"
-
-The audience should remember:
-
-fear
-
-desperation
-
-loneliness
-
-determination
-
-relief
-
-curiosity
-
-betrayal
-
-hope
-
-
-Not numerical progression.
-
-
----
-
-POWER BALANCE
-
-Power is earned.
-
-Never gifted.
-
-Every increase should require:
-
-suffering
-
-sacrifice
-
-injury
-
-difficult choices
-
-dangerous risks
-
-
-Victories should feel satisfying because they were expensive.
-
-
----
-
-OPENING ARC STRUCTURE
-
-Chapter 1 — The Sorting Ceremony
-
-The Awakening Dome.
-
-Public evaluation.
-
-Kaelen awakens as Tier-E Salvager.
-
-Humiliation.
-
-The hidden System glitch quietly modifies [Deconstruct].
-
-No one notices.
-
-
----
-
-Chapter 2 — The Reality of the Bottom Tier
-
-Arrival at Anvil Ridge.
-
-The academy's harsh reality.
-
-Students abandoned by society.
-
-Teachers who have stopped believing.
-
-Kaelen realizes survival itself costs money.
-
-He signs up for the city's lowest-paying auxiliary bounty jobs.
-
-
----
-
-Chapter 3 — The First Scavenge
-
-Kaelen clears an abandoned basement.
-
-He discovers monster corpses left behind.
-
-He secretly tests his altered skill.
-
-For the first time...
-
-he absorbs a purified monster trait.
-
-The process is agonizing.
-
-Nothing feels heroic.
-
-But when the pain ends...
-
-he knows everything has changed.
-
-
----
-
-Chapter 4 — Building the Base
-
-Kaelen balances school...
-
-part-time work...
-
-and illegal midnight scavenging.
-
-He begins carefully selecting monsters whose traits complement each other.
-
-He grows stronger.
-
-No one notices.
-
-Exactly as planned.
-
-
----
-
-STORY BALANCE
-
-40% Progression
-
-victories
-
-new abilities
-
-monsters
-
-locations
-
-discoveries
-
-
-30% Character
-
-emotions
-
-choices
-
-sacrifice
-
-relationships
-
-internal conflict
-
-
-20% Mystery
-
-hidden clues
-
-strange monster behavior
-
-unexplained System events
-
-unanswered questions
-
-
-10% World Building
-
-Reveal naturally through conversations, ruined locations, academy life, bounty jobs, and exploration.
-
-Never pause the story just to explain the world.
-
-
----
-
-ENDING RULE
-
-Every episode must end with:
-
-✅ One immediate problem solved.
-
-AND
-
-✅ One much larger mystery introduced.
-
-Never end with an explanation.
-
-Always end with a reveal, impossible sight, terrifying discovery, or shocking cliffhanger that makes viewers immediately want the next episode.
-
-Most importantly: Write every chapter so it feels like the next episode of an anime someone would binge, where the audience falls in love with Kaelen's struggle long before they care about how powerful he becomes.
+The final moments should make the audience immediately want to watch the next episode.
